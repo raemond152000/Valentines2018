@@ -29,7 +29,12 @@
 	width: 650px;
 	border-radius: 10px;
 	float: left;
+	opacity: 0.7;
+
 }
+
+
+
 
 .footer {
 	/*height: 200px;*/
@@ -52,6 +57,7 @@
 
 .container {
 	background-color: pink;
+	background-image: url(../images/bg.jpg);
 }
 
 .column {
